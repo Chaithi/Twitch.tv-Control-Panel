@@ -1,0 +1,32 @@
+body {
+    background: url(enter-background-image-here);
+    background-size: 100% 100%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'VT323';
+    font-weight: bolder;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+label {
+    font-family: 'VT323';
+    font-weight: bold;
+}
+
+.videolabel {
+    font-family: 'VT323';
+    text-align: center;
+}
+
+.video {
+    display: inline-block;
+}
